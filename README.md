@@ -66,9 +66,9 @@ python app.py
 
 ## Background 
 
-There are various tests that help to determine personality types such as the Big Five, Rorschach test, and MBTI test. In this project, prediction of personality is done by considering the MBTI test.
+There are various tests that help to determine personality types such as the Big Five, Rorschach test, and MBTI test. In this project, the prediction of personality is done by considering the MBTI test.
 
-The MBTI personality classification system grew out of Jungian psychoanalytic psychology as a systematization of archetypal personality types used in clinical practice. The system is divided along four binary orthogonal personality dimensions, altogether comprising a total of 16 distinct person.
+The MBTI personality classification system grew out of Jungian psychoanalytic psychology as a systematization of archetypal personality types used in clinical practice. The system is divided along four binary orthogonal personality dimensions, altogether comprising a total of 16 distinct persons.
 
 ### The dimensions are as follows
 
@@ -88,11 +88,11 @@ The MBTI personality classification system grew out of Jungian psychoanalytic ps
 
 
 ## Aptitude Assessment
-The aptitude assessment helps understand the underlying patterns of candidates interest and predict the stream that the candidate is interested in.
+The aptitude assessment helps understand the underlying patterns of candidates' interests and predict the stream that the candidate is interested in.
 Understanding a candidates inherent aptitude is very crucial for an organisation. Candidates can test their aptitude after which a report is generated which can assess a candidate's interest. Based on this, the Human Resource Manager can place a candidate in the right team and point out the right candidate for a particular job.
 
 #### Assessment
-This section of the application allows the registered candidates to attend the aptitude assessment. The candidate registers through a portal, fills in the compulsory profile information and logs on to the application. The student views the assessment report.  The application allows the human resource personnels to prepare the set of questions. Assigning of questions to the candidates is done automatically, though the question paper is prepared by a human resource personnel. It also allows the personnels to manage students and also to edit their own profile. The personnel is registered by the Human Resource Manager.
+This section of the application allows the registered candidates to attend the aptitude assessment. The candidate registers through a portal, fills in the compulsory profile information and logs on to the application. The student views the assessment report.  The application allows the human resource personnel to prepare the set of questions. Assigning of questions to the candidates is done automatically, though the question paper is prepared by human resource personnel. It also allows the personnels to manage students and also to edit their own profile. The personnel are registered by the Human Resource Manager.
 
 #### Question Structure
 All the questions are MCQ. Four types of questions are supported by this application.
