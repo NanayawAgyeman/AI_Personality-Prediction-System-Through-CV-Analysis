@@ -21,7 +21,7 @@ The project aims to develop a prototype of a platform that eradicates the tradit
 ## Prerequisites & Development Libraries
 
 
-To install WeEmploy you'll need pip and Git. It also uses a some Python packages (NumPy, SciPy and Matplotlib) but these should be taken care of by the installation process.
+To install WeEmploy you'll need pip and Git. It also uses some Python packages (NumPy, SciPy and Matplotlib) but these should be taken care of by the installation process.
 
 | Software | Version |
 | ------ | ------ |
